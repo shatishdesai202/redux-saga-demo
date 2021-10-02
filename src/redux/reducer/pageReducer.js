@@ -1,4 +1,4 @@
-import { IMAGES } from "../constant/index";
+import { IMAGES } from "../../constant/index";
 
 const pageReducer = (state = 1, action) => {
   switch (action.type) {

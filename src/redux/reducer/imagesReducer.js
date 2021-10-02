@@ -1,4 +1,4 @@
-import { IMAGES } from "../constant/index";
+import { IMAGES } from "../../constant/index";
 
 const imagesReducer = (state = [], action) => {
   switch (action.type) {
